@@ -1,2 +1,2 @@
 # COMP9020
-Paul Hunter
+Professor: Paul Hunter
